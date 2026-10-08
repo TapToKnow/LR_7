@@ -17,7 +17,7 @@ namespace UITests
     // и вспомогательные методы для работы с окнами приложения через FlaUI.
     public abstract class AppTestBase
     {
-        // Имя исполняемого файла тестируемого приложения (AssemblyName проекта LR_№6.csproj)
+        // Имя исполняемого файла тестируемого приложения (AssemblyName проекта LR_№7.csproj)
         private const string ExeName = "LR_№1.exe";
         // Можно указать путь к приложению явно через переменную окружения
         private const string ExePathVariable = "MUSICCOLLECTION_EXE";

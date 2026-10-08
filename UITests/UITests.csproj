@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <!-- Только порядок сборки: сборка приложения в тесты не подключается, оно запускается как отдельный процесс -->
-    <ProjectReference Include="..\LR_№1\LR_№6.csproj">
+    <ProjectReference Include="..\LR_№1\LR_№7.csproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <Private>false</Private>
     </ProjectReference>
